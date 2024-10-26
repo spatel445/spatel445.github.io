@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+html, body{
+    background-image: linear-gradient(rgb(111, 20, 215),rgb(60, 103, 154))
+    
+   
+}
+h1 {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 b{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 b{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4 b{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h5 b{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

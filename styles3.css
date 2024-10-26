@@ -1,0 +1,85 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.img-ppl {
+    width: 1200px;
+    height: 200px;
+    background-image: url(Man_Tired_After_Workout_Cartoon.svg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left;
+    position: absolute;
+    left: 5px;
+}
+header h3 {
+    transform: translateX(10px);
+}
+
+header h4 {
+    transform: translateY(230px);
+    position: absolute;
+    left: 15px;
+}
+
+header h5 {
+    transform: translateY(250px);
+    position: absolute;
+    left: 15px;
+}
+body{
+    background-image: url(4cc8b1f71fc788aa146a33704bed9cc3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+header h6 {
+    transform: translateY(-476px);
+    position: absolute;
+    left: 500px;
+    width: 200px;
+
+}
+.custom-heading {
+    transform: translateY(250px);
+    position: absolute;
+    left: 500px;
+    font-size: 25px;
+    
+   
+}
+.custom-heading2{
+
+    transform: translateY(221px);
+    position: absolute;
+    left: 900px;
+    font-size: 30px;
+}
+.custom-heading3 {
+    transform: translateY(250px);
+    position: absolute;
+    left: 900px;
+    font-size: 25px;
+}
+.custom-heading4 {
+    transform: translateY(215px);
+    position: absolute;
+    left: 1300px;
+    font-size: 30px;
+}
+
+.custom-heading5 {
+    transform: translateY(250px);
+    position: absolute;
+    left: 1300px;
+    font-size: 25px;
+}
